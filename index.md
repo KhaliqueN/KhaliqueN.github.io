@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-# Welcome to the Fraser Lab!
+# Nestome Lab
 {: .display-4}
 <br>
 We are part of the [Institute for Computational Systems Biology](https://www.baumbachlab.net/).
