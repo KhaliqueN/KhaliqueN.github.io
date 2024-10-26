@@ -12,6 +12,6 @@ group: home
 
 ![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
 
-Research in the lab is focused on discovering the structural and systemic principles of biomolecules. 
+Research in the lab is focused on discovering the network and structural principles of biomolecules. 
 {: .welcomefont}
 
