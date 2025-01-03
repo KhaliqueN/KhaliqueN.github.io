@@ -9,7 +9,7 @@ group: publications
 {% assign sorted = site.publications | sort: "pub_date" | reverse %}
 {% for publication in sorted %}
 
-<!-- <hr> -->
+<hr>
 <div class="row" style="padding-top: 40px; margin-top: -40px;" id="{{publication.pmid}}">
 	<div>
 		<h5>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>'}}</h5>
