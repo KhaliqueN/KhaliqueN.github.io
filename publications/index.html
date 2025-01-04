@@ -10,7 +10,7 @@ group: publications
 {% for publication in sorted %}
 
 <hr>
-<div class="row" style="padding-top: 40px; margin-top: -40px;" id="{{publication.pmid}}">
+<div class="row" style="padding-top: 20px; margin-top: -20px;" id="{{publication.pmid}}">
 	<div>
 		<h5>{{ publication.title | markdownify  | remove: '<p>' | remove: '</p>'}}</h5>
 		<h6>{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' }}</h6>
@@ -168,7 +168,7 @@ group: publications
 			{% endfor %}
 		{% endif %}
 	</ul>
-</div> 
+</div>
 <br>
 {% endfor %}
 </div>
