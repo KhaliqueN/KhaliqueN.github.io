@@ -19,7 +19,7 @@ Additionally, the group aims to investigate how changes in protein folds perturb
 
 ### Investigate large-scale effects of alternative splicing on protein complex perturbations
 
-<div class="col-md-7 order-md-1">
+<div class="col-md-10 order-md-1">
 
 Alternative splicing (or simply 'splicing') results in multiple protein isoforms from a single gene.
 Proteins function by physically interacting with each other to form protein-protein interactions (PPIs).
@@ -30,7 +30,7 @@ We build computational [**approaches**](https://github.com/lieboldj/EEIpred) to 
 
 </div>
 
-<div class="col-md-5 order-md-2 align-self-center">
+<div class="col-md-3 order-md-2 align-self-center">
 <!-- <img class="img-fluid" src="/static/img/pub/2017_biel.jpg" alt="qFit"> -->
 <!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
 
