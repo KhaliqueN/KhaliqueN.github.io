@@ -5,13 +5,9 @@ enddate: []
 image: /static/img/members/khalique_newaz.jpg
 # altimage: /static/img/members/khalique_newaz.jpg
 position: Group Leader
-#current:
-pronouns: 
-email: khalique[dot]newaz(at)uni-hamburg[dot]de
+email: khalique.newaz(at)uni-hamburg.de
 scholar: ViCMilQAAAAJ
 website: 
-UCSF: 
-twitter: 
 linkedin: 
 github: 
 orcid: 0000-0002-1192-8360
