@@ -4,7 +4,7 @@ layout: home
 group: home
 ---
 
-# Nestome Lab
+# NeStOme Lab
 {: .display-4}
 <br>
 ...part of the [Institute for Computational Systems Biology](https://www.baumbachlab.net/)
