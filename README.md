@@ -1,4 +1,4 @@
-# fraser-lab.github.io
+# khaliquen.github.io
 ====================
 
 Technologies this website uses:  
