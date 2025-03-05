@@ -1,13 +1,13 @@
 ---
-name: James Fraser, Ph.D.
-startdate: [2011-01-01]
+name: Khalique Newaz, Ph.D.
+startdate: [2025-01-01]
 enddate: []
-image: /static/img/members/Fraser.jpg
+image: /static/img/members/Khalique_Newaz.jpg
 # altimage: /static/img/members/Fraser_pb.jpg
-position: Principal Investigator
+position: Group Leader
 #current:
 pronouns: he/him/his
-email: jfraser (at) fraserlab.com
+email: khalique[dot]newaz(at)uni-hamburg[dot]de
 scholar: j3iaoR8AAAAJ
 website:
 UCSF: james.fraser
