@@ -113,7 +113,7 @@ Subsequently: {{undergraduate.subsequent}}<br>
 
 
 <br>
-## [High School Interns](http://sep.ucsf.edu/hs_programs/high-school-intern-program/)
+## High School Interns
 {% for student in sorted %}
 
 {% assign position = student.position | downcase %}
