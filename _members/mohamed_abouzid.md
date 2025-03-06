@@ -2,8 +2,8 @@
 name: Mohamed Abouzid
 startdate: [2024-11-01]
 enddate: []
-image: /static/img/members/mohamed_abouzid.jpg
-# altimage: /static/img/members/mohamed_abouzid.jpg
+image: /static/img/members/mohamed_abouzid.jpg #365 x 365 pixels, 72 dpi
+# altimage: /static/img/members/mohamed_abouzid.jpg #365 x 365 pixels, 72 dpi
 position: Master Student
 email: mohamed.abouzid(at)uni-hamburg.de
 scholar:
