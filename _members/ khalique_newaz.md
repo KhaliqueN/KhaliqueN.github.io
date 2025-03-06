@@ -2,8 +2,8 @@
 name: Khalique Newaz, Ph.D.
 startdate: [2025-01-01]
 enddate: []
-image: /static/img/members/khalique_newaz.jpg
-# altimage: /static/img/members/khalique_newaz.jpg
+image: /static/img/members/khalique_newaz.jpg #365 x 365 pixels, 72 dpi
+# altimage: /static/img/members/khalique_newaz.jpg #365 x 365 pixels, 72 dpi
 position: Group Leader
 email: khalique.newaz(at)uni-hamburg.de
 scholar: ViCMilQAAAAJ
