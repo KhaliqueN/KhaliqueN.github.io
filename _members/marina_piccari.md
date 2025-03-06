@@ -1,9 +1,9 @@
 ---
 name: Marina Piccari
 startdate: [2024-11-01]
-enddate: []
+enddate: [2025-03-31]
 image: /static/img/members/marina_piccari.jpg
-# altimage: /static/img/members/khalique_newaz.jpg
+# altimage: /static/img/members/marina_piccari.jpg
 position: Visiting researcher
 email: marina.piccari(at)uni-hamburg.de
 scholar: 
