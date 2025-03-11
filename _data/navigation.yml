@@ -14,6 +14,6 @@
   link: "/members"
   group: members
 
-#- name: join
-#  link: "/join"
-#  group: join
+- name: join
+ link: "/join"
+ group: join
