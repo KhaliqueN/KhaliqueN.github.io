@@ -1,4 +1,4 @@
-## NeStOme Lab Alumni
+## Alumni
 {% assign sorted = site.members | sort: "enddate" | reverse %}
 {% for member in sorted %}
 
@@ -7,7 +7,7 @@
 {% endif %}
 
 {% assign position = member.position | downcase %}
-{% if position contains "srtp" or position contains "intern" or position 
+{% if position contains "srtp" or position contains "intern" or position
   contains "sep" or position contains "visiting"
   or position contains "high school" %}
 {% unless position contains "affiliate" %}
@@ -76,7 +76,7 @@ Subsequently: {{member.subsequent}} <br>
 {% endfor %}
 
 <br>
-## Undergraduate Interns
+<!-- ## Undergraduate Interns -->
 {% for undergraduate in sorted %}
 
 {% assign position = undergraduate.position | downcase %}
@@ -113,7 +113,7 @@ Subsequently: {{undergraduate.subsequent}}<br>
 
 
 <br>
-## High School Interns
+<!-- ## High School Interns -->
 {% for student in sorted %}
 
 {% assign position = student.position | downcase %}
@@ -145,7 +145,7 @@ Subsequently: {{student.subsequent}}<br>
 
 
 <br>
-## NeStOme Lab Visitors
+## Visitors
 {% for visitor in sorted %}
 
 {% assign position = visitor.position | downcase %}
