@@ -2,7 +2,7 @@
 name: Jan-Ole Schulze
 startdate: [2024-11-01]
 enddate: []
-image:
+image: /static/img/members/jan-ole_shulze.jpeg
 position: PhD student
 email: jan-ole.schulze (at) uni-hamburg.de
 scholar:

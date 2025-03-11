@@ -2,7 +2,7 @@
 name: Sina Pralle
 startdate: [2024-11-01]
 enddate: []
-image: /static/img/members/sina_pralle.jpg
+image: /static/img/members/sina_pralle.jpeg
 # altimage: /static/img/members/sina_pralle.jpg
 position: Master student
 email: sina.pralle(at)uni-hamburg.de
