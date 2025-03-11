@@ -7,7 +7,7 @@ group: home
 # NeStOme Lab
 {: .display-4}
 <br>
-...part of [Institute for Computational Systems Biology](https://www.baumbachlab.net/)
+<!-- ...part of [Institute for Computational Systems Biology](https://www.baumbachlab.net/) -->
 {: .welcomefont}
 
 [comment]: <> ![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
