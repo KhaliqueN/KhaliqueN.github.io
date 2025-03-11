@@ -11,7 +11,7 @@ group: join
 
 ## Master/Bachelor thesis
 
-The lab works in the interface of network, computational, and structural biology. If interested then please send your CV/Resume to [Dr. Khalique Newaz](/contact)
+The lab works in the interface of network, computational, and structural biology. If interested then please first have a look at lab's [research](/research).  If still interested, please send your CV to [Dr. Khalique Newaz](/contact)
 
 <!-- Current **open positions**:<br/> -->
 ## Open position(s)
