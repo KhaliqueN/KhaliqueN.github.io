@@ -12,4 +12,4 @@ Current **open positions**:
 
 ## Master/Bachelor thesis
 
-The lab works in the intersection of network science, computational biology, and structural biology. If interested then please send your CV/Resume to [Dr. Khalique Newaz](/contact)
+The lab works in the interface of network, computational, and structural biology. If interested then please send your CV/Resume to [Dr. Khalique Newaz](/contact)
