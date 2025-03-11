@@ -9,6 +9,10 @@ group: contact
 
 <div class="row">
 
+</div>
+
+<div class="row">
+
 <div class="col-md-4">
 
   <h4>Lab Area </h4>
