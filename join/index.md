@@ -6,12 +6,8 @@ group: join
 
 ## Join the NeStOme Lab
 
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
+<br/>
+<br/>
 
 ## Master/Bachelor thesis
 
