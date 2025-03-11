@@ -15,5 +15,5 @@
   group: members
 
 - name: join
- link: "/join"
- group: join
+  link: "/join"
+  group: join 
