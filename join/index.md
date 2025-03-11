@@ -6,7 +6,8 @@ group: join
 
 ## Join the NeStOme Lab
 
-Current **open positions**:
+Current **open positions**:<br/>
+
 [HiWi] Help in conducting computational analysis to investigate the effect of cancer-related alternative splicing on protein-protein interactions
 <br/>
 
