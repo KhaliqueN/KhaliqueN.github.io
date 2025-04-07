@@ -16,5 +16,5 @@ The lab works in the interface of network, computational, and structural biology
 <!-- Current **open positions**:<br/> -->
 ### Open position(s)
 
-[HiWi] Help in conducting computational analysis to investigate the effect of cancer-related alternative splicing on protein-protein interactions
+<!--[HiWi] Help in conducting computational analysis to investigate the effect of cancer-related alternative splicing on protein-protein interactions -->
 <br/>
