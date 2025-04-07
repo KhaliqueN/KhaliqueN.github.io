@@ -7,8 +7,8 @@
 {% endif %}
 
 {% assign position = member.position | downcase %}
-{% if position contains "srtp" or position contains "intern" or position
-  contains "sep" or position contains "visiting"
+{% if position contains "master" or position contains "bachelor" or position
+  contains "assistant" or position contains "visiting"
   or position contains "high school" %}
 {% unless position contains "affiliate" %}
 {% continue %}
