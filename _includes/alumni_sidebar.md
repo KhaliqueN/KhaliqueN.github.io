@@ -7,8 +7,8 @@
 {% endif %}
 
 {% assign position = member.position | downcase %}
-{% if position contains "master" or position contains "bachelor" or position
-  contains "assistant" or position contains "visiting"
+{% if position contains "srtp" or position contains "intern" or position
+  contains "sep" or position contains "visiting"
   or position contains "high school" %}
 {% unless position contains "affiliate" %}
 {% continue %}
@@ -17,7 +17,7 @@
 
 <hr>
 <div id = "{{member.name}}" style="padding-top: 60px; margin-top: -60px;">
-<p><strong>{{member.name}}</strong><br>
+<p><strong>{{member.name}}</strong> -
 <em>{{member.position | markdownify | remove: '<p>' | remove: '</p>' }}</em><br>
 
 {% if member.pronouns %}
