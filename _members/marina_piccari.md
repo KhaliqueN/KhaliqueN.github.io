@@ -4,7 +4,7 @@ startdate: [2024-11-01]
 enddate: [2025-03-31]
 image: /static/img/members/marina_piccari.jpg
 # altimage: /static/img/members/marina_piccari.jpg
-position: Visiting researcher
+position: Visiting Researcher
 email: marina.piccari(at)uni-hamburg.de
 scholar:
 website:

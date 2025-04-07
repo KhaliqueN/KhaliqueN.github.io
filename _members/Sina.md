@@ -4,7 +4,7 @@ startdate: [2024-11-01]
 enddate: []
 image: /static/img/members/sina_pralle.jpeg
 # altimage: /static/img/members/sina_pralle.jpg
-position: Master student
+position: Master Student
 email: sina.pralle(at)uni-hamburg.de
 scholar:
 website:
