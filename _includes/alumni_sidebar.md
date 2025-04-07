@@ -18,11 +18,11 @@
 <hr>
 <div id = "{{member.name}}" style="padding-top: 60px; margin-top: -60px;">
 <p><strong>{{member.name}}</strong> -
-<em>{{member.position | markdownify | remove: '<p>' | remove: '</p>' }}</em><br>
+<em>{{member.position | markdownify | remove: '<p>' | remove: '</p>' }}</em>:
 
-{% if member.pronouns %}
+<!-- {% if member.pronouns %}
 <em>{{member.pronouns}}</em> <br>
-{% endif %}
+{% endif %} -->
 
 {% assign start = member.startdate | first | date:"%Y" %}
 {% assign end = member.enddate | last | date:"%Y" %}
