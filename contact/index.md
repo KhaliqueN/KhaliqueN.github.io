@@ -25,7 +25,7 @@ group: contact
 <div class="col-md-4">
 
   <h4>Khalique Newaz, Ph.D.</h4>
-  Group Leader<br>
+  Junior Group Leader<br>
   [Institute for Computational and Systems Biology](https://www.cosy.bio/)<br>
   Albert-Einstein-Ring 10, Room 3022<br>
   22761 Hamburg<br>
