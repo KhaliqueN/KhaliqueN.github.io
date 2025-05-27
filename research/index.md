@@ -20,7 +20,7 @@ Additionally, the group aims to investigate how changes in protein folds perturb
 
 <div class="col-md-10 order-md-1">
 
-### Protein complex perturbation via alternative splicing
+### Understanding how alternative splicing perturb protein complexes
 
 Alternative splicing (or simply 'splicing') results in multiple protein isoforms from a single gene.
 Proteins function by physically interacting with each other to form protein complexes.
