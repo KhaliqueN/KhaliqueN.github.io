@@ -17,9 +17,10 @@ Additionally, the group aims to investigate how changes in protein folds perturb
 
 <div class="row">
 
-### Protein complex perturbation via alternative splicing
 
 <div class="col-md-10 order-md-1">
+
+### Protein complex perturbation via alternative splicing
 
 Alternative splicing (or simply 'splicing') results in multiple protein isoforms from a single gene.
 Proteins function by physically interacting with each other to form protein complexes.
@@ -29,9 +30,11 @@ We build computational [**approaches**](https://github.com/lieboldj/EEIpred) to 
 
 </div>
 
-### Understanding transcription factors
+
 
 <div class="col-md-10 order-md-1">
+
+### Understanding transcription factors
 
 Transcription factors (TFs) are proteins that regulate gene expression based on their 3D structures. 
 Changes in their 3D structures due to molecular processes, e.g., alternative splicing, could lead to gene dysregulation leading to diseases.
@@ -44,4 +47,5 @@ We build computational [**approaches**](https://github.com/lieboldj/StrucTFactor
 <!-- <a href="http://www.ucsf.edu"><img class="inline-block navb-icon" src="/static/img/ucsf_logo_white.svg" alt="University of California, San Francisco (UCSF) logo"></a> -->
 
 </div>
+
 </div>
