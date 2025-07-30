@@ -8,7 +8,7 @@ position: Junior Group Leader
 email: khalique.newaz(at)uni-hamburg.de
 scholar: ViCMilQAAAAJ
 website:
-linkedin: khalique-newaz-49694a25b
+linkedin: khalique-newaz
 github:
 orcid: 0000-0002-1192-8360
 description: "Khalique Newaz did his PhD studies in Computer Science and Engineering in the Complex Networks Lab headed by Prof. Tijana Milenkovic at the University of Notre Dame, USA. Afterwards, he worked in the Institute for Computational Systems Biology headed by Prof. Jan Baumbach at the University of Hamburg, Germany. From January 2025, Khalique leads the NeStOme lab at the University of Hamburg, Germany.
