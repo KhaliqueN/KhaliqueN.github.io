@@ -8,7 +8,7 @@ position: Bachelor student
 email: Felix.Wissel(at)studium.uni-hamburg.de
 scholar:
 website:
-linkedin: felix-wissel
+linkedin: felix-wissel-4bb85531
 github:
 orcid:
 description: "Felix Wissel is currently completing his Bachelor’s thesis in Business Informatics at the University of Hamburg. His research focuses on applying machine learning techniques to predict protein-protein binding sites.
