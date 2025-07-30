@@ -7,9 +7,7 @@ group: research
 <div class="row">
 
 # Our research
-The long-term goal of the group is to investigate the basic principles of how 3D structures of biomolecules (e.g., protein 3D folds) regulate cellular functions in health and disease from a systems biology perspective.
-To this end, the group aims to investigate protein folds focusing on, e.g., alternative splicing, misfolding, and fold switching.
-Additionally, the group aims to investigate how changes in protein folds perturb the underlying biological networks, and how such perturbed networks can be used to unravel disease mechanisms and biomarkers.
+The group investigates the basic principles of how 3D structures of biomolecules (e.g., protein 3D folds) regulate cellular functions in health and disease from a systems biology perspective. The group aims to investigate protein folds focusing on, e.g., alternative splicing, misfolding, and fold switching. Additionally, the group aims to investigate how changes in protein folds perturb the underlying biological networks, and how such perturbed networks can be used to unravel disease mechanisms and biomarkers.
 <br>
 <br>
 
@@ -20,13 +18,13 @@ Additionally, the group aims to investigate how changes in protein folds perturb
 
 <div class="col-md-10 order-md-1">
 
-### Understanding how alternative splicing perturb protein complexes
+### Understanding how alternative splicing (AS) perturb protein complexes
 
-Alternative splicing (or simply 'splicing') results in multiple protein isoforms from a single gene.
+AS results in multiple protein isoforms from a single gene.
 Proteins function by physically interacting with each other to form protein complexes.
-Hence, the effects of splicing on individual proteins could also be reflected on protein complex formation.
-Investigations of how splicing prootein complex formation could provide insights into splicing-driven disease mechanisms and help identify drug targets.
-We build computational [**approaches**](https://github.com/lieboldj/EEIpred) to capture such splicing-driven effects on disruptions of know protein complexes in [**diseases**](https://github.com/KhaliqueN/Cancer_prognostic_EEIs).
+Hence, the effects of AS on individual proteins could also be reflected on protein complex formation.
+Investigations of how AS perturbs protein complex formation could provide insights into AS-driven disease mechanisms and help identify drug targets.
+We build computational [**approaches**](https://github.com/lieboldj/EEIpred) to capture such AS-driven effects on disruptions of know protein complexes in [**diseases**](https://github.com/KhaliqueN/Cancer_prognostic_EEIs).
 
 </div>
 
@@ -36,9 +34,8 @@ We build computational [**approaches**](https://github.com/lieboldj/EEIpred) to 
 
 ### Understanding transcription factors
 
-Transcription factors (TFs) are proteins that regulate gene expression based on their 3D structures. 
-Changes in their 3D structures due to molecular processes, e.g., alternative splicing, could lead to gene dysregulation leading to diseases.
-We build computational [**approaches**](https://github.com/lieboldj/StrucTFactor) to understand TFs and how perturbations of their 3D structures are related to [**diseases**]().
+Transcription factors (TFs) are proteins that regulate gene expression based on their 3D structures.
+Changes in their 3D structures due to molecular processes, e.g., alternative splicing, could lead to gene dysregulation leading to diseases. We build computational [**approaches**](https://github.com/lieboldj/StrucTFactor) to understand TFs and how perturbations of their 3D structures are related to [**diseases**]().
 
 </div>
 
