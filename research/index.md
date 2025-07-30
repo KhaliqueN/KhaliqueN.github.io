@@ -18,7 +18,7 @@ The group investigates the basic principles of how 3D structures of biomolecules
 
 <div class="col-md-10 order-md-1">
 
-### Understanding how alternative splicing (AS) perturb protein complexes
+### Understanding how alternative splicing (AS) perturbs protein complexes
 
 AS results in multiple protein isoforms from a single gene.
 Proteins function by physically interacting with each other to form protein complexes.
