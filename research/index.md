@@ -7,6 +7,7 @@ group: research
 <div class="row">
 
 # Research interests
+<br>
 The group develops algorithms and software tools to support computational biology.
 <br>
 - Computational Biology:  uncovering novel biological knowledge via integration of multi-omics and structural data with biological networks
