@@ -6,8 +6,14 @@ group: research
 
 <div class="row">
 
-# Our research
-The group develops algorithms and software tools to support computational biology research at the intersection of structural genomics and proteomics. The group is particularly interested in network modeling of protein interactions with other biomolecules. Additional research directions include bioinformatics of viruses, evolution of mRNAs, and cancer informatics.
+# Research interests
+The group develops algorithms and software tools to support computational biology.
+<br>
+- Computational Biology:  uncovering novel biological knowledge via integration of multi-omics and structural data with biological networks
+<br>
+- Structural Bioinformatics: understanding protein folding
+<br>
+- Theoretical computer science: network algorithms
 <br>
 <br>
 
