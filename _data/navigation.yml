@@ -6,6 +6,10 @@
   link: "/research"
   group: research
 
+- name: software
+  link: "/software"
+  group: software
+
 - name: publications
   link: "/publications"
   group: publications
@@ -16,4 +20,4 @@
 
 - name: join
   link: "/join"
-  group: join 
+  group: join
