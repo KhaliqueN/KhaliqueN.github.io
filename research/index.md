@@ -6,22 +6,18 @@ group: research
 
 <div class="row">
 
-# Research interests
-<br>
-<br>
-<br>
-- Modeling and analysis of protein 3D structures
-<br>
-- Development of network theoretic approaches to analyze biological networks
-<br>
-- Prediction and analysis of protein-protein interactions
-<br>
-- Disease informatics, with a specific focus on cancer
-<br>
+# Research interests   
+- Modeling and analysis of protein 3D structures   
+
+- Development of network theoretic approaches to analyze biological networks   
+
+- Prediction and analysis of protein-protein interactions   
+
+- Disease informatics, with a specific focus on cancer   
 
 </div>
 
-<div class="row">
+<!-- <div class="row">
 
 
 <!-- <div class="col-md-10 order-md-1">
@@ -53,4 +49,4 @@ Changes in their 3D structures due to molecular processes, e.g., alternative spl
 
 </div>
 
-</div>
+</div> -->
