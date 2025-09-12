@@ -9,9 +9,10 @@ group: research
 # Research interests
 <br>
 <br>
-- Analysis of protein 3D structures
 <br>
-- Development of network theoretic approches to analyze biological networks
+- Modeling and analysis of protein 3D structures
+<br>
+- Development of network theoretic approaches to analyze biological networks
 <br>
 - Prediction and analysis of protein-protein interactions
 <br>
