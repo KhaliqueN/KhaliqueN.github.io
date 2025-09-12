@@ -4,9 +4,9 @@ layout: default
 group: research
 ---
 
+# Research interests  
 <div class="row">
 
-# Research interests   
 - Modeling and analysis of protein 3D structures   
 
 - Development of network theoretic approaches to analyze biological networks   
@@ -17,7 +17,7 @@ group: research
 
 </div>
 
-<!-- <div class="row">
+<div class="row">
 
 
 <!-- <div class="col-md-10 order-md-1">
@@ -49,4 +49,4 @@ Changes in their 3D structures due to molecular processes, e.g., alternative spl
 
 </div>
 
-</div> -->
+</div>
