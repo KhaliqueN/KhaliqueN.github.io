@@ -7,7 +7,7 @@ group: research
 <div class="row">
 
 # Research interests
-
+<br>
 <br>
 - Analysis of protein 3D structures
 <br>
