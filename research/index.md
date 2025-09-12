@@ -9,12 +9,13 @@ group: research
 # Research interests
 
 <br>
-- Computational Biology:  uncovering novel biological knowledge via integration of multi-omics and structural data with biological networks
+- Analysis of protein 3D structures
 <br>
-- Structural Bioinformatics: understanding protein folding
+- Development of network theoretic approches to analyze biological networks
 <br>
-- Theoretical computer science: network algorithms
+- Prediction and analysis of protein-protein interactions
 <br>
+- Disease informatics, with a specific focus on cancer
 <br>
 
 </div>
