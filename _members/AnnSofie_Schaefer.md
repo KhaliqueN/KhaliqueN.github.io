@@ -1,7 +1,7 @@
 ---
 name: Ann-Sofie Schaefer
 startdate: [2024-11-01]
-enddate: []
+enddate: [2025-10-31]
 image: /static/img/members/AnnSofie_Schaefer.jpg
 position: Student Assistant
 email: ann-sofie.schaefer(at)uni-hamburg.de
