@@ -16,7 +16,7 @@ group: contact
 <div class="col-md-4">
 
   <h4>Lab Area </h4>
-  [Institute for Computational and Systems Biology](https://www.cosy.bio/)<br>
+  [Institute for Computational and Systems Biomedicine](https://www.cosy.bio/)<br>
   Albert-Einstein-Ring 10<br>
   22761 Hamburg<br>
 
@@ -26,7 +26,7 @@ group: contact
 
   <h4>Khalique Newaz, Ph.D.</h4>
   Junior Group Leader<br>
-  [Institute for Computational and Systems Biology](https://www.cosy.bio/)<br>
+  [Institute for Computational and Systems Biomedicine](https://www.cosy.bio/)<br>
   Albert-Einstein-Ring 10, Room 3022<br>
   22761 Hamburg<br>
   email: khalique.newaz (at) uni-hamburg.de <br>
