@@ -1,7 +1,7 @@
 ---
 name: Mohamed Abouzid
 startdate: [2024-11-01]
-enddate: []
+enddate: [2025-10-31]
 image: /static/img/members/mohamed_abouzid.jpg #365 x 365 pixels, 72 dpi
 # altimage: /static/img/members/mohamed_abouzid.jpg #365 x 365 pixels, 72 dpi
 position: Master Student
