@@ -1,7 +1,7 @@
 ---
 name: Felix Wissel
 startdate: [2025-04-01]
-enddate: []
+enddate: [2025-10-31]
 image: /static/img/members/felix_wissel.jpeg
 # altimage: /static/img/members/felix_wissel.jpeg
 position: Bachelor student
