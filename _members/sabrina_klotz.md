@@ -1,7 +1,7 @@
 ---
 name: Sabrina Klotz
 startdate: [2025-03-01]
-enddate: []
+enddate: [2025-10-31]
 image: /static/img/members/sabrina_klotz.jpg
 # altimage: /static/img/members/sabrina_klotz.jpg
 position: Master Student
