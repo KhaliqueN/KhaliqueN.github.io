@@ -1,6 +1,6 @@
 ---
 name: Franco Salvatore
-startdate: [2025-01-10]
+startdate: [2025-10-01]
 enddate: []
 image: /static/img/members/franco_salvatore.jpg
 # altimage: /static/img/members/khalique_newaz.jpg

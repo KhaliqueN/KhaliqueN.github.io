@@ -1,6 +1,6 @@
 ---
 name: Roberta Giorgi
-startdate: [2025-01-01]
+startdate: [2025-10-01]
 enddate: []
 image: /static/img/members/roberta_giorgi.jpeg
 # altimage: /static/img/members/khalique_newaz.jpg
