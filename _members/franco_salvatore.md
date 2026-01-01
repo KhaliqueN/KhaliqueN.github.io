@@ -1,13 +1,13 @@
 ---
-name: Franco Salvatore, MSc.
+name: Franco Salvatore
 startdate: [2025-01-10]
-enddate: [2028-01-10]
+enddate: []
 image: /static/img/members/franco_salvatore.jpg
 # altimage: /static/img/members/khalique_newaz.jpg
 position: PhD Student
 email: franco.salvatore(at)uni-hamburg.de
-scholar: 
-website: 
+scholar:
+website:
 linkedin: https://www.linkedin.com/in/franco-salvatore-63bb45328?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUk1i2xZ6SXqa2uTSv9QgGA%3D%3D
 github: SalvaFran
 orcid: 0009-0006-4380-7447
