@@ -2,7 +2,7 @@
 name: Roberta Giorgi
 startdate: [2025-10-01]
 enddate: []
-image: /static/img/members/roberta_giorgi.jpeg
+image: /static/img/members/Roberta_Giorgi.jpeg
 # altimage: /static/img/members/khalique_newaz.jpg
 position: PhD Student
 email: roberta.giorgi(at)uni-hamburg.de

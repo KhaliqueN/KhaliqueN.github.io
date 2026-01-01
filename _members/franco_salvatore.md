@@ -2,7 +2,7 @@
 name: Franco Salvatore
 startdate: [2025-10-01]
 enddate: []
-image: /static/img/members/franco_salvatore.jpg
+image: /static/img/members/Franco_Salvatore.jpg
 # altimage: /static/img/members/khalique_newaz.jpg
 position: PhD Student
 email: franco.salvatore(at)uni-hamburg.de
