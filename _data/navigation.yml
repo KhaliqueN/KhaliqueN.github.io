@@ -6,9 +6,9 @@
   link: "/research"
   group: research
 
-- name: software
-  link: "/software"
-  group: software
+# - name: software
+#   link: "/software"
+#   group: software
 
 - name: publications
   link: "/publications"
