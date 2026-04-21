@@ -12,5 +12,5 @@ group: home
 
 [comment]: <> ![Fraser lab logo](static/img/logo/jf_retreat_logo.svg){:style="max-width: 100%; height: auto;"}
 
-Research in the lab is focused on modeling and understanding the structural complexity of proteins and their interactions with other biomolecules.
+Research in the lab is focused on modeling and understanding the structural complexity of proteins
 {: .welcomefont}
