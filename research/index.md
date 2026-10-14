@@ -7,13 +7,13 @@ group: research
 # Research interests  
 <div class="row">
 
-- Modeling and analysis of protein 3D structures   
+- Network-based modeling and analysis of protein structures   
 
 - Development of network theoretic approaches to analyze biological networks   
 
-- Prediction and analysis of protein-protein interactions   
+- Impact of alternatvie splicing on protein structures and biological networks  
 
-- Disease informatics, with a specific focus on cancer   
+- Disease informatics, with a focus on cancer   
 
 </div>
 
