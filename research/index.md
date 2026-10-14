@@ -7,13 +7,11 @@ group: research
 # Research interests  
 <div class="row">
 
-- Network-based modeling and analysis of protein structures   
+- Structural Bioinformatics: basic questions regarding protein folds -- their origin, evolution, and comparison; fold-switching proteins  
 
-- Development of network theoretic approaches to analyze biological networks   
+- Computational Biology: cancer informatics; systemic impact of alternative splicing  
 
-- Impact of alternatvie splicing on protein structures and biological networks  
-
-- Disease informatics, with a focus on cancer   
+- Theoretical computer science: network algorithms    
 
 </div>
 
